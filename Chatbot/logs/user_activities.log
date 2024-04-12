@@ -1,0 +1,48 @@
+2024-04-12 10:27:06,981 - UserActivityLogger - INFO - User logged in: admin
+2024-04-12 10:27:07,057 - UserActivityLogger - INFO - Welcome to the Dashboard!
+2024-04-12 10:27:19,909 - UserActivityLogger - INFO - User admin attempted to access login page while already authenticated.
+2024-04-12 10:27:19,917 - UserActivityLogger - INFO - Welcome to the Dashboard!
+2024-04-12 10:27:45,401 - UserActivityLogger - INFO - admin wants to logout
+2024-04-12 10:27:45,402 - UserActivityLogger - INFO - User logged out
+2024-04-12 10:40:03,293 - UserActivityLogger - INFO - User logged in: Nandini
+2024-04-12 10:40:03,328 - UserActivityLogger - INFO - Welcome to the Dashboard!
+2024-04-12 10:40:14,931 - UserActivityLogger - WARNING - Unauthorized access attempt to upload route by user: Nandini
+2024-04-12 10:40:23,804 - UserActivityLogger - WARNING - Unauthorized access attempt to create_user route by user: Nandini
+2024-04-12 10:42:39,889 - UserActivityLogger - WARNING - Unauthorized access attempt to load route by user: Nandini
+2024-04-12 10:42:48,329 - UserActivityLogger - INFO - Nandini wants to logout
+2024-04-12 10:42:48,330 - UserActivityLogger - INFO - User logged out
+2024-04-12 10:43:23,265 - UserActivityLogger - INFO - User logged in: admin
+2024-04-12 10:43:23,289 - UserActivityLogger - INFO - Welcome to the Dashboard!
+2024-04-12 10:43:28,855 - UserActivityLogger - INFO - User admin attempted to access login page while already authenticated.
+2024-04-12 10:43:28,870 - UserActivityLogger - INFO - Welcome to the Dashboard!
+2024-04-12 10:44:25,141 - UserActivityLogger - INFO - Files uploaded: ['LeavesPolicy.pdf', 'Posh_Policy_Bodmas.pdf', 'sample-pdf-file.pdf']
+2024-04-12 10:44:25,143 - UserActivityLogger - INFO - Files skipped: []
+2024-04-12 10:44:25,146 - UserActivityLogger - INFO - Errors encountered: []
+2024-04-12 10:48:38,192 - UserActivityLogger - INFO - Embeddings loaded into Vector DB for file: LeavesPolicy.pdf
+2024-04-12 10:48:38,198 - UserActivityLogger - INFO - File moved to archive directory: LeavesPolicy.pdf
+2024-04-12 10:49:16,374 - UserActivityLogger - INFO - Embeddings loaded into Vector DB for file: Posh_Policy_Bodmas.pdf
+2024-04-12 10:49:16,378 - UserActivityLogger - INFO - File moved to archive directory: Posh_Policy_Bodmas.pdf
+2024-04-12 10:49:25,026 - UserActivityLogger - INFO - Embeddings loaded into Vector DB for file: sample-pdf-file.pdf
+2024-04-12 10:49:25,028 - UserActivityLogger - INFO - File moved to archive directory: sample-pdf-file.pdf
+2024-04-12 10:50:32,540 - UserActivityLogger - INFO - Response sent: 6  
+  
+ 
+Sick Leaves  – 5 in a year  
+ 
+SL leave  may  be used  and intimated :  
+• For medical  issues  
+• If any employee  avails  more  than  3 sick leaves,  in continuity  he/she  needs  to present  Medical  
+certificate  by an Authorized  Doctor.  
+• SL is not carried  forward  for the next  Leave  Year 
+• SL is not en -cashable  
+7  
+  
+Privileged  Leaves  – 21 in a year  
+ 
+• Employees  can earn  21 PL in a year  w.e.f.  Date  of Joining  
+• The entitlement  is accrued  at the rate of 1.75  days  per completed  month  of service.  
+• The approval  and scheduling  of such  time  off will be subject  to prior Reporting  Manager  Approval  
+and business  needs.  
+• Employee  is required  to apply  for continuous  PLs at-least one (1) week before his/
+2024-04-12 10:54:56,137 - UserActivityLogger - INFO - Files uploaded: ['EmployeeHandbook.pdf', 'Work_from_Home_Policy.pdf', 'sample-pdf-file.pdf'] , Files skipped: [] by admin
+2024-04-12 10:54:56,143 - UserActivityLogger - INFO - Errors encountered: [] in uploading files
